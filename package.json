@@ -1,0 +1,21 @@
+{
+  "name": "sails-repository-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "sailsGenerator": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelkandja/sails-repository-generator.git"
+  },
+  "keywords": ["sails", "generator", "repository", "service", "architecture"],
+  "author": "joel kandja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joelkandja/sails-repository-generator/issues"
+  },
+  "homepage": "https://github.com/joelkandja/sails-repository-generator#readme",
+  "description": ""
+}
